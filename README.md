@@ -58,4 +58,4 @@ If you find this repo useful , give it a star
 
 Credits
 -----------
-All the credits to [sayan](github.com/SayanBera1)
+All the credits to [Sayan](github.com/SayanBera1)
