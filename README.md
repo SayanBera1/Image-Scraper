@@ -11,7 +11,7 @@ Getting started
 To get started using this tool, firstly *clone* or *download* the repository to your computer just as shown below;
 
 ```bash
-$-> git clone https://github.com/Kalebu/Website-Images-Spider
+$-> git clone https://github.com/SayanBera1/Images-Scraper
 ```
 
 Dependancies
@@ -27,8 +27,8 @@ Move into the Project directory
 Navigate into your project repository either by using **cd** commands or by opening a terminal inside a project repository.
 
 ```bash
-$-> cd Website-Images-Spider
-$ Website-Images-Spider-> python app.py
+$-> cd Image-Scraper
+$ Image-Scraper-> python app.py
 Enter URL with images : 
 ```
 
@@ -58,4 +58,4 @@ If you find this repo useful , give it a star
 
 Credits
 -----------
-All the credits to [kalebu](github.com/kalebu)
+All the credits to [sayan](github.com/SayanBera1)
